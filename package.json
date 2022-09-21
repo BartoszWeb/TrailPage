@@ -1,0 +1,37 @@
+{
+  "name": "trail",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@types/gsap": "^3.0.0",
+    "@types/react-lottie": "^1.2.6",
+    "@types/styled-components": "^5.1.26",
+    "axios": "^0.27.2",
+    "formik": "^2.2.9",
+    "formik-typed": "^0.0.3-alpha",
+    "gray-matter": "^4.0.3",
+    "gsap": "^3.9.1",
+    "next": "12.3.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-gsap": "^3.2.1",
+    "react-lottie": "^1.2.3",
+    "react-lottie-wrapper": "^1.1.8",
+    "react-markdown": "^8.0.3",
+    "styled-components": "^5.3.5"
+  },
+  "devDependencies": {
+    "@types/node": "^18.7.16",
+    "@types/react": "18.0.18",
+    "@types/react-dom": "18.0.6",
+    "eslint": "8.23.0",
+    "eslint-config-next": "12.3.0",
+    "typescript": "4.8.3"
+  }
+}
