@@ -1,7 +1,5 @@
 import { BlogPost } from "../../molecules/BlogPost/BlogPost";
 import { SectionWrapper, PostsList } from "./PostSection.style";
-import { SideBar } from "../SideBarBlog/SideBar";
-
 interface Posts {
     posts: { content: string, slug: string, date: string, excerpt: string, image: string, isFeatured: boolean, title: string }[];
 }
