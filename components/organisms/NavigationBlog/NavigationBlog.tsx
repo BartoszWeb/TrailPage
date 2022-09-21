@@ -1,6 +1,5 @@
 import Link from "next/link";
 import { Logo } from "../../atoms/Logo/Logo";
-import { DarkModeIcon } from "../../atoms/DarkModeIcon/DarkModeIcon";
 import {
     NavigationDesktopBlog,
     StyledLogoDesktop,
